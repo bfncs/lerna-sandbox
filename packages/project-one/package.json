@@ -1,9 +1,9 @@
 {
   "name": "project-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "dependencies": {
-    "dependency-one": "^1.0.1",
+    "dependency-one": "^1.0.2",
     "dependency-two": "^1.0.2"
   }
 }
