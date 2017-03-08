@@ -1,9 +1,9 @@
 {
   "name": "dependency-three",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "dependency-two": "^1.0.2"
+    "dependency-two": "^1.0.3"
   }
 }
